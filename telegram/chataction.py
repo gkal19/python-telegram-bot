@@ -24,16 +24,16 @@ class ChatAction(object):
     """Helper class to provide constants for different chatactions
 
     Attributes:
-        FIND_LOCATION (str): 'find_location'
-        RECORD_AUDIO (str): 'record_audio'
-        RECORD_VIDEO (str): 'record_video'
-        RECORD_VIDEO_NOTE (str): 'record_video_note'
-        TYPING (str): 'typing'
-        UPLOAD_AUDIO (str): 'upload_audio'
-        UPLOAD_DOCUMENT (str): 'upload_document'
-        UPLOAD_PHOTO (str): 'upload_photo'
-        UPLOAD_VIDEO (str): 'upload_video'
-        UPLOAD_VIDEO_NOTE (str): 'upload_video_note'
+        FIND_LOCATION (:obj:`str`): 'find_location'
+        RECORD_AUDIO (:obj:`str`): 'record_audio'
+        RECORD_VIDEO (:obj:`str`): 'record_video'
+        RECORD_VIDEO_NOTE (:obj:`str`): 'record_video_note'
+        TYPING (:obj:`str`): 'typing'
+        UPLOAD_AUDIO (:obj:`str`): 'upload_audio'
+        UPLOAD_DOCUMENT (:obj:`str`): 'upload_document'
+        UPLOAD_PHOTO (:obj:`str`): 'upload_photo'
+        UPLOAD_VIDEO (:obj:`str`): 'upload_video'
+        UPLOAD_VIDEO_NOTE (:obj:`str`): 'upload_video_note'
     """
 
     FIND_LOCATION = 'find_location'
